@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6283111790380@s.whatsapp.net",
+  "botName": "Libra asisten Yahya",
+  "ownerName": "Ramlan ID",
+  "footer": "Libra",
+  "apikey": "APIKEY",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "Yahya",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
